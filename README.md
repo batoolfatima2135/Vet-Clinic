@@ -34,9 +34,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Tables for data storage**
-- **Storing data queries**
-- **Manipulating data queries**
+- **Table for animals**
+- **Adding data in animals table**
+- **Query and update animals table.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -72,7 +72,6 @@ Example commands:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **query and update animals table.**
 - [ ] **query multiple tables**
 - [ ] **add "join table" for visits**
 - [ ] **database performance audit**
