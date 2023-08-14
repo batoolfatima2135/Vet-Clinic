@@ -1,4 +1,3 @@
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -8,6 +7,7 @@
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -16,7 +16,6 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 VET CLINIC <a name="about-project"></a>
-
 
 **VET CLINIC** is a database for Vet Clinic to store it's data
 
@@ -41,16 +40,13 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-
 ### Setup
 
 Clone this repository to your desired folder:
-
 
 Example commands:
 
@@ -59,17 +55,12 @@ Example commands:
   git clone https://github.com/batoolfatima2135/Vet-Clinic.git
 ```
 
-
-
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Batool Fatima**
 
@@ -78,6 +69,14 @@ Example commands:
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/batool-fatima-515531196/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **query and update animals table.**
+- [ ] **query multiple tables**
+- [ ] **add "join table" for visits**
+- [ ] **database performance audit**
+- [ ] **add database schema diagram.**
 
 <!-- CONTRIBUTING -->
 
@@ -93,7 +92,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-
 If you like this project kindly give stars.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -102,10 +100,12 @@ If you like this project kindly give stars.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-
 I would like to thank Microverse and my peers.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LICENSE -->
 
+## 📝 License <a name="license"></a>
 
+This project is [MIT](./LICENSE) licensed.
