@@ -8,3 +8,5 @@ CREATE TABLE animals(
     neutered boolean,
     weight_kg DECIMAL,
  );
+
+ALTER TABLE animals ADD species VARCHAR(250);
