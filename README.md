@@ -17,7 +17,7 @@
 
 # 📖 VET CLINIC <a name="about-project"></a>
 
-**VET CLINIC** is a database for Vet Clinic to store it's data
+**VET CLINIC** is a database for Vet Clinic to store it's data. It has multiple table and is showing multiple relationships in different tables. It can be use to store data of any vet clinic.
 
 ## 🛠 Built With <a name="built-with"></a>
 
