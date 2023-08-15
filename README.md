@@ -17,7 +17,7 @@
 
 # 📖 VET CLINIC <a name="about-project"></a>
 
-**VET CLINIC** is a database for Vet Clinic to store it's data
+**VET CLINIC** is a database for Vet Clinic to store it's data. It has multiple table and is showing multiple relationships in different tables. It can be use to store data of any vet clinic.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -38,6 +38,7 @@
 - **Adding data in animals table**
 - **Query and update animals table.**
 - **Query multiple tables**
+- **add "join table" for visits**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,7 +74,6 @@ Example commands:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **add "join table" for visits**
 - [ ] **database performance audit**
 - [ ] **add database schema diagram.**
 
