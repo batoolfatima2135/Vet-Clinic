@@ -37,6 +37,7 @@
 - **Table for animals**
 - **Adding data in animals table**
 - **Query and update animals table.**
+- **Query multiple tables**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -72,7 +73,6 @@ Example commands:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **query multiple tables**
 - [ ] **add "join table" for visits**
 - [ ] **database performance audit**
 - [ ] **add database schema diagram.**
