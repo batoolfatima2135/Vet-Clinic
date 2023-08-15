@@ -56,6 +56,12 @@ INSERT INTO specialization(vet_id, species_id) VALUES
   (SELECT id from species WHERE name = 'Pokemon')
 );
 
+INSERT INTO specialization(vet_id, species_id) VALUES
+(
+  (SELECT id FROM vets WHERE name = 'Jack Harkness'),
+  (SELECT id FROM species WHERE name = 'Digimon')
+);
+
 INSERT INTO visits(vet_id, animals_id, date_of_visit) VALUES 
 (
   (SELECT id from vets WHERE name = 'William Tatcher'),
