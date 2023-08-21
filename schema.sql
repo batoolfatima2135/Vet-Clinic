@@ -36,3 +36,11 @@ CREATE TABLE specialization(id INT GENERATED ALWAYS AS IDENTITY,
  date_of_visit DATE,
  PRIMARY KEY (id));
 
+ALTER TABLE visits RENAME COLUMN animals_id TO animal_id;
+ALTER TABLE owners ADD COLUMN email VARCHAR(120);
+
+CREATE INDEX idx_animal_id ON visits(animal_id);
+CREATE INDEX idx_email ON owners(email);
+CREATE INDEX idx_vet_id ON visits (vet_id);
+CLUSTER visits USING idx_vet_id;
+
