@@ -70,6 +70,12 @@ Example commands:
 - Twitter: [@twitterhandle](https://twitter.com/batool2135)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/batool-fatima-515531196/)
 
+👤 **Addisalem Seifu Beidework**
+
+- GitHub: [@addisalemseifu](https://github.com/githubhandle)
+- Twitter: [@Addisalem Seifu](https://twitter.com/addisalems92518)
+- LinkedIn: [addisalem seifu](https://www.linkedin.com/in/addisalemseifu/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
