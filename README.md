@@ -39,6 +39,8 @@
 - **Query and update animals table.**
 - **Query multiple tables**
 - **add "join table" for visits**
+- **created schema_based_on_diagram.sql file**
+- **add table relationships for the clinic table**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
